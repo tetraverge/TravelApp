@@ -23,12 +23,14 @@
 <Button
     android:layout_width="150dp"
     android:layout_height="100dp"
+    android:text="Visa"
     android:layout_margin="10dp"></Button>
 
 
          <Button
              android:layout_width="150dp"
              android:layout_height="100dp"
+             android:text="Travel"
              android:layout_margin="10dp"></Button>
 
      </LinearLayout>
@@ -43,12 +45,14 @@
          <Button
              android:layout_width="150dp"
              android:layout_height="100dp"
+             android:text="Tours"
              android:layout_margin="10dp"></Button>
 
 
          <Button
              android:layout_width="150dp"
              android:layout_height="100dp"
+             android:text="Visa Assessment"
              android:layout_margin="10dp"></Button>
 
      </LinearLayout>
@@ -62,12 +66,14 @@
          <Button
              android:layout_width="150dp"
              android:layout_height="100dp"
+             android:text="Affiliation"
              android:layout_margin="10dp"></Button>
 
 
          <Button
              android:layout_width="150dp"
              android:layout_height="100dp"
+             android:text="About"
              android:layout_margin="10dp"></Button>
 
      </LinearLayout>
@@ -82,12 +88,14 @@
          <Button
              android:layout_width="150dp"
              android:layout_height="100dp"
+             android:text="ticket"
              android:layout_margin="10dp"></Button>
 
 
          <Button
              android:layout_width="150dp"
              android:layout_height="100dp"
+             android:text="Contact"
              android:layout_margin="10dp"></Button>
 
      </LinearLayout>
